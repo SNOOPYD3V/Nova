@@ -1,12 +1,3 @@
-body{
-    margin: 0 auto;
-    padding: 0 auto;
-}
-#nav {
-    background-color: #282b30;
-
-}
-ol {
-    margin: 0;
-    padding: 0;
+h1.titulo {
+    color: violet;
 }
